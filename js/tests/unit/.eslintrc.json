@@ -1,4 +1,7 @@
 {
+  "plugins": [
+    "html"
+  ],
   "extends": [
     "../../../.eslintrc.json"
   ],
